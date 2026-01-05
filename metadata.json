@@ -1,0 +1,7 @@
+{
+  "description": "SMRUTI - A Human–AI Decision Memory Continuity System that tracks the 'why' behind decisions over time.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "SMRUTI"
+}
